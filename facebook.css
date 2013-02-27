@@ -27,9 +27,6 @@
 ================================================== */
 
 /* Shortening the top bar to work with the single column layout. Overly specific use of ids to override FB's CSS. */
-.fbx.home #blueBar #pageHead {
-  width: 545px;
-}
 .fbx.home #navSearch {
   width: 230px;
 }
